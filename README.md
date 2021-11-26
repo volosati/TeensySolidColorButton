@@ -1,3 +1,7 @@
-For build use ArduinoIDE
+# Teensy32, 1500 LEDS, off mode and 2 solid color with 2 momentary push buttons
 
-`<script async src="https://www.tweaking4all.com/wp-content/themes/tweaking4all/js/jscolor.js" charset="utf-8"></script> `
+## Builded and tested with:
+
+* ArduinoIDE 1.8.16
+* Teensyduino, 1.55
+* FastLED 3.4.0
