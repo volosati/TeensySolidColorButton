@@ -6,4 +6,4 @@
 * Teensyduino, 1.55
 * FastLED 3.4.0
 
-![[img/RGB_Chart.png]]
+![img/RGB_Chart.png]
