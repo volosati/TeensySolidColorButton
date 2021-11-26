@@ -5,3 +5,5 @@
 * ArduinoIDE 1.8.16
 * Teensyduino, 1.55
 * FastLED 3.4.0
+
+![[img/RGB_Chart.png]]
